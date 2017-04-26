@@ -1,0 +1,20 @@
+{
+  "name": "sort_algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "debug":"node --debug-brk index.js&&node-inspector" 
+  },
+  "keywords": [
+    "sort",
+    "插入排序",
+    "冒泡排序",
+    "堆排序",
+    "快速排序"
+  ],
+  "author": "delen",
+  "license": "ISC"
+}
